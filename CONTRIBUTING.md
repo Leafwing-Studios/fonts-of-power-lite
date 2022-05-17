@@ -1,8 +1,8 @@
-# Contributing to *Fonts of Power*
+# Contributing to *Fonts of Power Lite*
 
 ## Prelude
 
-*Fonts of Power* is an in-development game,
+*Fonts of Power Lite* is an in-development game,
 intended for commercial release and fully controlled by *Leafwing Studios*.
 
 As such, development is intended to be done almost completely by members of the *Leafwing* team.

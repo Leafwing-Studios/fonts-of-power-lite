@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 # Summary
 
-[Introduction](README.md)
+- [Introduction](README.md)
 
 # Rules
 - [The Building Blocks of Play](rules/building-blocks.md)
