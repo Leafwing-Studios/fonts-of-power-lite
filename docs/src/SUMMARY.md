@@ -23,24 +23,10 @@
   - [Chase Scenes](rules/scenes/chase-scenes.md)
   - [Deals and Ideals](rules/scenes/deals-and-ideals.md)
   - [Trickery Scenes](rules/scenes/trickery-scenes.md)
-- [Combat](rules/combat/README.md)
-  - [Rounds, Turns, and Space](rules/combat/round-turns-space.md)
-  - [Attacking and Defending](rules/combat/attacking-and-defending.md)
-  - [Acting in Combat](rules/combat/acting-in-combat/README.md)
-    - [Actions](rules/combat/acting-in-combat/actions.md)
-  - [Environmental Complications](rules/combat/environmental-complications.md)
-  - [Tactical Mechanics](rules/combat/tactical-mechanics.md)
-  - [Elements](rules/combat/elements.md)
-- [Conditions](rules/combat/conditions/README.md)
-  - [Afflictions](rules/combat/conditions/afflictions.md)
-  - [Ailments](rules/combat/conditions/ailments.md)
-  - [Statuses](rules/combat/conditions/statuses.md)
 
 ---
 
 # Character Options
 - [Character Creation](character-options/character-creation.md)
 - [Species](character-options/species/README.md)
-- [Powers](character-options/powers/README.md)
 - [Feats](character-options/feats/README.md)
-- [Gear](character-options/gear/README.md)

@@ -21,21 +21,6 @@ There are several well-defined downtime activities within the rules for players 
 While the downtime activities that follow are the most common and generically useful options, they are not intended as an exhaustive list.
 Other downtime activities should offer similarly tangible benefits, in order to ensure that the choice stays meaningful.
 
-## Danger Levels
-
-In the world of _Fonts of Power_, some areas are incredibly dangerous, crawling with monsters and bubbling with magical power, while others, such as towns, are quite safe. This is captured in the idea of the **danger level** of an area.
-
-Areas with a higher danger level carry more risk but come with greater rewards. The danger level of areas is always between 0 and 3, and is readily apparent to all those who enter it.
-
-The danger level of an area affects the following:
-
-- If you rest in an area with a danger level greater than 0, you must complete a one-success [attrition scene](rules/scenes/attrition-scenes), suffering consequences if you fail
-- The difficulty of skill checks during attrition and chase scenes increases by 5 for each danger level
-- The Harvest and Enchant downtime activities gain a bonus of +5 for each danger level
-- Harvest can only be used if the danger level is 1 or greater
-- Players can only be resurrected at a font from the area of highest danger. In most cases, this is the physical center of the font.
-- The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
-
 ## Bond
 
 Grow closer to another party member, improving your cooperation.
@@ -74,94 +59,6 @@ Make an Expertise (Tinkering) skill check. For every 5 points of the skill check
 The plausibility of these checks is increased by 1.
 
 Like usual, if you roll a 1 on the supplies die, deplete it once.
-
-## Disenchant
-
-Scrap an enchanted item completely, turning it back into its raw ingredients.
-
-Choose an enchanted set of arms or armor, and make an Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
-Choose one of its affixes, and gain that ingredient.
-It is associated with the skill used for this check.
-Gain one essence crystal for each remaining enchantment point of the item, up to a maximum of one essence crystal for every 5 points of your skill check result.
-
-## Devise
-
-Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
-
-Design a consumable by selecting one base effect and up to one modifier.
-You must know the recipes in some way, choosing to either:
-
-- Use a recipe you already know.
-  - Recipes are sometimes found as treasure, or as rewards from helping others.
-  - You can learn new recipes as part of the Invent downtime activity.
-  - Allies can share their recipes with you by using the Support downtime activity.
-- Reverse-engineer a new recipe.
-  - Sacrifice one existing consumable to use either its base effect or modifier in the consumable you are creating.
-
-Make a Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
-Some modifiers are skill exclusive: you must use the corresponding skill when using these recipes.
-Create one copy of the consumable for every 5 points of your skill check result.
-Sacrifice one essence crystal for each consumable created.
-
-After you create a consumable, learn all recipes used in it.
-
-## Enchant
-
-Enchant an item, adding an affix to it.
-
-Choose a set of arms or armor, and then choose one of the following options to determine which affix is added:
-
-- Use an ingredient that you have scavenged from a monster to add this affix to that item.
-  - After each victorious combat encounter, each party member draws three affixes used by the monsters, and chooses one to keep as an ingredient.
-  - The skill used is determined by the type of monster it was from.
-- Use an ingredient harvested from the current Font (including those found using the Harvest downtime activity)
-  - The skill is the same that was used for the Harvest downtime activity
-- Use a reusable ingredient from another source. This might be a book from the library, the assistance of a craftsman in town, a scroll found in a chest, etc.
-  - The skill used is given by the ingredient.
-  - These ingredients are not consumed, although the owner may want it back!
-
-Consume the ingredient, then determine your success or failure at this crafting:
-
-- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Fontcraft or Tinkering).
-- Add 5 times the current danger level of the area you are resting in to the result.
-- The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
-
-You have disadvantage on this skill check if you used a skill other than the one associated with the ingredient used.
-The item that you create becomes associated with the skill you used to enchant: when it is disenchanted you will receive an ingredient of that type.
-
-If you succeeded, you may choose to remove any number of existing affixes from that gear, then add your new affix!
-
-If you failed by 10 or less, you may sacrifice essence crystals equal to the difference between your roll and the difficulty to complete the process.
-
-If you failed by more than 10, your downtime activity is wasted and you lose the ingredient.
-
-## Harvest
-
-Gather resources from the environment around you.
-
-For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
-
-1. Choose one of Anima, Fontcraft or Tinkering.
-2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
-3. Then draw one random ingredient from the font or town's collection of affix ingredients for every 5 points of the skill check result.
-4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
-The ingredient gained is associated with the skill you used for this skill check.
-
-## Invent
-
-Tinkering with magic, you attempt to create new and wonderful magical contraptions.
-
-Make an Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
-Choose one of the following recipe decks to draw from:
-
-- universal recipes
-- font-specific recipes associated with the font of power you are currently in
-- skill-specific recipes
-
-You can look through the universal and skill-specific recipe decks before deciding, but the font-specific deck is secret.
-
-Draw one consumable recipe (which may be a base effect or modifier) at random for every 5 points of your skill check results and choose which one to keep.
-Shuffle any recipes you did not choose back into the deck.
 
 ## Prepare
 
@@ -222,7 +119,7 @@ Whenever you gain a stack of transcendence that increases your transcendence to 
 If you fail, you disappear as your spirit slips away forever.
 
 As a downtime activity, your allies can attempt to **Resurrect** you.
-In order to use the Resurrect downtime activity, they must be in the area with the highest danger level of the font that absorbed you.
+In order to use the Resurrect downtime activity, they must be in the dangerous area of the font that absorbed you.
 Additionally, they must have an adequate **vessel**, as described in the table below.
 They then must succeed on three separate skill checks, with a difficulty of 10 + your transcendence.
 These skill checks always use Focus, but the skill used (and the species you reincarnate as) varies based on the vessel used.
